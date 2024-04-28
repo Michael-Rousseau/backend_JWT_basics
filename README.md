@@ -3,5 +3,8 @@ It provides a login/register feature, and then some features to sort the tasks, 
 The database is in MongoDB, in order to avoid Sql injections
 
 RUN:
+
+
 npm install --safe-dev
+
 sh run.sh
